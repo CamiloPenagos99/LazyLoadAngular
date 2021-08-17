@@ -7,7 +7,7 @@ import { ForgotpasswordComponent } from './pages/forgotpassword/forgotpassword.c
 import { LoginComponent } from './pages/login/login.component';
 import { RegisterComponent } from './pages/register/register.component';
 
-//implementar las rutas
+//implementar las rutas hijas
 const routes: Routes = [
  { path: '',
   children: [
